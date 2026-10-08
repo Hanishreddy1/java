@@ -22,7 +22,7 @@ class Student {
         return courseCredits * 1500;
     }
 
-    // Check eligibility
+    
     boolean checkEligibility() {
         return marks >= 50;
     }
