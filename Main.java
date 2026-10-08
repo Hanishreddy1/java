@@ -45,7 +45,7 @@ class Student {
     }
 
     void displayDetails() {
-        System.out.println("\n===== Student Course Registration Details =====");
+        System.out.println("\n Student Course Registration Details:");
         System.out.println("Student Name   : " + studentName);
         System.out.println("Roll Number    : " + rollNumber);
         System.out.println("Marks          : " + marks);
